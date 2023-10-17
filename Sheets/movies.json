@@ -1,0 +1,47 @@
+[{
+  "title": "El que busca encuentra",
+  "genres": [
+    "Romantic",
+    "Comedy"
+  ],
+  "runtime": 93,
+  "year": 2017,
+  "directors": "Pedro Pablo Ibarra",
+  "cast": [
+    "Ana Brenda Contreras",
+    "Claudio Lafarga",
+    "Esmeralda Pimentel",
+    "Otto Sirgo",
+    "Andrés Montiel",
+    "Damayanti Quintanar",
+    "Erik Hayser",
+    "Natasha Dupeyrón"
+  ],
+  "countries": "Mexico"
+},{
+  "title": "Cinderella",
+  "genres": [
+    "Romantic",
+    "Fantasy"
+  ],
+  "runtime": 106,
+  "year": 2015,
+  "directors": "Kenneth Branagh",
+  "cast": [
+    "Lily James",
+    "Cate Blanchet",
+    "Richard Madden",
+    "Helena Bonham Carter",
+    "Nonso Anozie",
+    "Stellan Skarsgård",
+    "Sophie McShera",
+    "Holliday Granger",
+    "Derek Jacobi",
+    "Ben Chaplin",
+    "Hayley Atwell"
+  ],
+  "countries": [
+    "United Kingdom",
+    "USA"
+  ]
+}]
